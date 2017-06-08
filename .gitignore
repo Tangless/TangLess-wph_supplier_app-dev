@@ -1,0 +1,15 @@
+!/src/node_modules/nodejs/node_modules/@po-to
+/node_modules/
+/dist/
+/logs/**/*.json
+/src/node_modules/nodejs/node_modules/
+.vscode/
+*.log
+!/src/node_modules/nodejs/node_modules/@types
+webpack.json
+node_modules.json
+.idea/
+.DS_Store
+.buildpath
+.project
+.settings
